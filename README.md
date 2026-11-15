@@ -1,6 +1,6 @@
-# Why AI Can't Count the R's in Strawberry
+# I Asked an AI to Shorten My Bio. It Made It Longer.
 
-Video: https://youtu.be/5xJwlHs2CQ0
+Video: https://youtu.be/eADbUijH5iE
 
 Run in your browser:
 - [Build a tokenizer from scratch](https://colab.research.google.com/github/MhdHabboub/why-ai-cant-count-letters/blob/main/tokenizer_from_scratch.ipynb)
